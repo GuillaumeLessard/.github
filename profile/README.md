@@ -1,35 +1,24 @@
-# Guillaume Lessard / iD01t Productions
+# Guillaume Lessard — QEC Research
 
-**Independent creator, researcher, and builder.**
+Independent quantum error correction researcher and developer.
 
-Founder of **iD01t Productions** — a solo creative-tech studio based in Québec, Canada.
+**Main project:**
+**QECTOR Decoder v3** — Source-available Rust + Python decoding platform.
 
-### Current Focus
-- **QECTOR Decoder v3** — High-performance source-available Quantum Error Correction toolkit (Rust + Python). MWPM, Union-Find, belief-matching, BP-OSD, GPU batch decoding, Stim/Sinter integration.  
-  → [qector-decoder](https://github.com/GuillaumeLessard/qector-decoder)
+High-performance decoders (MWPM/Blossom, Union-Find, belief-matching, BP-OSD), GPU batch support, Stim/Sinter integration, and strong emphasis on correctness and reproducibility.
 
-- **ROOT_ACCESS / Jess Damaged** — Cyberpunk transmedia universe (books, music, games, lore).
+- v0.6.2: Hypergraph rejection fix + full audit suite (919 tests)
+- 21k+ PyPI downloads in first weeks
 
-- **Music** — DJ iD01T (electronic / glitch / cyberpunk). 9+ LPs available on major platforms.
+**Links**
+- Repository: https://github.com/GuillaumeLessard/qector-decoder
+- PyPI: https://pypi.org/project/qector-decoder-v3/
+- Website: https://www.qector.store
 
-- **Indie Games & Tools** — Neo-Kyoto 2.5D FPS, pixel art tools, Echo 3D engine, and more on itch.io.
+Focused on verifiable, production-hardened tools for QEC research and validation.
 
-- **IT Services** — iTECHINFO (Windows optimization, repairs, custom builds).
+Open to serious licensing / collaboration discussions with quantum computing teams.
 
-### Links
-- **QECTOR** → [qector.store](https://www.qector.store) | [GitHub](https://github.com/GuillaumeLessard/qector-decoder)
-- **Music & Publishing** → [id01t.store](https://id01t.store) | [Apple Music](https://music.apple.com/artist/dj-id01t)
-- **Games & Assets** → [itch.io/id01t](https://id01t.itch.io)
-- **Main GitHub** → [GuillaumeLessard](https://github.com/GuillaumeLessard)
-- **Lab / Experiments** → [iD01tLab](https://github.com/iD01tLab) (if active)
-
-### Philosophy
-Self-taught since age 16. Everything built solo — no team, no funding, no institutional support. Precision, completeness, and verifiable results first.
-
-Open to serious commercial licensing conversations for QECTOR IP (strategic quantum players, research orgs, etc.).
-
----
-
-**"Verify the output. Input. Operation. Result. Explanation."**
-
-— Guillaume Lessard (DJ iD01T / El'Nox Rah)
+—
+Guillaume Lessard
+iD01t Productions
