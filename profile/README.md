@@ -19,6 +19,6 @@ Focused on verifiable, production-hardened tools for QEC research and validation
 
 Open to serious licensing / collaboration discussions with quantum computing teams.
 
-—
+
 Guillaume Lessard
 iD01t Productions
