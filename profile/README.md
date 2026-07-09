@@ -3,7 +3,7 @@
 Independent quantum error correction researcher and developer.
 
 **Main project:**
-**QECTOR Decoder v3** — Source-available Rust + Python decoding platform.
+**QECTOR Decoder v3** - Source-available Rust + Python decoding platform.
 
 High-performance decoders (MWPM/Blossom, Union-Find, belief-matching, BP-OSD), GPU batch support, Stim/Sinter integration, and strong emphasis on correctness and reproducibility.
 
