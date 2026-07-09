@@ -1,4 +1,4 @@
-# Guillaume Lessard — QEC Research
+# Guillaume Lessard - QEC Research
 
 Independent quantum error correction researcher and developer.
 
