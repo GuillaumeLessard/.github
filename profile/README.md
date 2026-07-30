@@ -1,8 +1,15 @@
-# QECTOR · High-Performance Quantum Error Correction
+## QECTOR · High-Performance Quantum Error Correction
 
 **Independent QEC Research & Development**
 
 **Main Project:** [QECTOR Decoder v3](https://github.com/GuillaumeLessard/qector-decoder) — Production-grade Rust + Python decoding platform.
+
+## 🚀 Support QECTOR Development
+
+[![Sponsor qectorlab](https://img.shields.io/badge/Sponsor-qectorlab-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/qectorlab)
+
+[![Open Collective](https://img.shields.io/badge/Open%20Collective-qectorlab-3385FF?style=for-the-badge&logo=opencollective)](https://opencollective.com/qectorlab)
+
 
 ### Overview
 High-performance, verifiable decoders for quantum error correction:
