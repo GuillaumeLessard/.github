@@ -2,7 +2,7 @@ QECTOR · High-Performance Quantum Error Correction
 
 **Independent QEC Research & Development**
 
-**Main Project:** QECTOR Decoder v3 — Proprietary, production-grade Rust + Python decoding platform.
+**Main Project:** QECTOR Decoder v3 - Proprietary, production-grade Rust + Python decoding platform.
 
 ## 🚀 QECTOR Enterprise & Licensing
 
@@ -26,12 +26,14 @@ Proprietary, high-performance, verifiable decoders for quantum error correction:
 - v1.0.0 proprietary engine released
 - Enterprise-grade, simulation-validated engine for practical QEC workloads
 - Desktop Workbench GUI + local stdio MCP server support
-- Fully archived benchmark datasets on Zenodo
+- Claude Code/Destop new plugin is out
+
 
 ## Links
 
 - **PyPI (Engine):** qector-decoder-v3
-- **Workbench:** itch.io
-- **Benchmarks:** Zenodo records (21339300, 21501377, 21360433)
+- **Workbench:** https://github.com/qectorlab/qector-decoder-workbench-windows/releases/tag/v1.0.0
+- **Claude Plugin** https://github.com/GuillaumeLessard/qector-claude-plugin
+
 
 *Building reliable, proprietary tools to accelerate fault-tolerant quantum computing research.*
