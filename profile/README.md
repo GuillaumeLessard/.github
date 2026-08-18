@@ -1,38 +1,37 @@
-## QECTOR · High-Performance Quantum Error Correction
+**QECTOR** · High-Performance Quantum Error Correction Independent **QEC** Research & Development
 
-**Independent QEC Research & Development**
+Main Project: **QECTOR** Decoder v3 — Proprietary, production-grade Rust + Python decoding platform.
 
-**Main Project:** [QECTOR Decoder v3](https://github.com/GuillaumeLessard/qector-decoder) — Production-grade Rust + Python decoding platform.
+🚀 **QECTOR** Enterprise & Licensing For inquiries regarding professional licensing, source-code integration, or custom decoder architecture:
 
-## 🚀 Support QECTOR Development
+Contact: [admin@qector.store](mailto:admin@qector.store)
 
-[![Sponsor qectorlab](https://img.shields.io/badge/Sponsor-qectorlab-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/qectorlab)
+Official Portal: qector.store
 
-[![Open Collective](https://img.shields.io/badge/Open%20Collective-qectorlab-3385FF?style=for-the-badge&logo=opencollective)](https://opencollective.com/qectorlab)
+Overview Proprietary, high-performance, verifiable decoders for quantum error correction:
 
+15 specialized decoding backends (**MWPM**/Blossom, BP-**OSD**, Hybrid, and Neural predecoders).
 
-### Overview
-High-performance, verifiable decoders for quantum error correction:
-- MWPM / Blossom (exact parity with PyMatching)
-- Union-Find & Fast UF
-- BP-OSD, Sparse Blossom, Hybrid & Neural predecoders
-- GPU (CUDA) batch acceleration, streaming, and edge-optimized paths
+Advanced acceleration: **CUDA** and OpenCL batch processing, streaming, and edge-optimized paths.
 
-Strong focus on **correctness**, **reproducibility**, and **practical performance** across code families (surface, heavy-hex, qLDPC, etc.).
+Security-focused: Offline, zero-egress execution architecture.
 
-### Current Status (July 2026)
-- **v0.6.8** released with comprehensive edge benchmarks
-- 21k+ PyPI downloads
-- Desktop Workbench GUI + MCP server available
-- Full benchmark datasets archived on Zenodo
+Full compatibility: Integrates with Stim, Sinter, and PyMatching workflows.
 
-### Links
-- **PyPI**: [qector-decoder-v3](https://pypi.org/project/qector-decoder-v3/)
-- **Website**: [qector.store](https://www.qector.store)
-- **Workbench**: [itch.io](https://id01t.itch.io/qector-decoder-workbench)
-- **Benchmarks**: Zenodo records (21339300, 21501377, 21360433)
-- **Contact**: admin@qector.store
+Strong focus on mathematical correctness, reproducibility, and practical hardware utilization across code families (surface, heavy-hex, qLDPC, etc.).
 
-Open to **serious licensing, collaboration, and integration** discussions with quantum computing teams and researchers.
+Current Status (August **2026**) v1.0.0 proprietary engine released.
 
-Focused on building reliable tools that accelerate fault-tolerant quantum computing research.
+Enterprise-grade, simulation-validated engine for practical **QEC** workloads.
+
+Desktop Workbench **GUI** + local stdio **MCP** server support.
+
+Fully archived benchmark datasets on Zenodo.
+
+Links PyPI (Engine): qector-decoder-v3
+
+Workbench: itch.io
+
+Benchmarks: Zenodo records (**21339300**, **21501377**, **21360433**)
+
+Building reliable, proprietary tools to accelerate fault-tolerant quantum computing research.
