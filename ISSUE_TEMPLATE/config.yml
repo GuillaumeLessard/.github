@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security problem
+    url: https://github.com/GuillaumeLessard/.github/blob/main/SECURITY.md
+    about: Report vulnerabilities privately, not in a public issue.
+  - name: Commercial licensing
+    url: https://qector.store/pricing
+    about: Plans and terms for company and commercial use.
+  - name: QECTOR Research Archive
+    url: https://zenodo.org/communities/id01t
+    about: Papers, proofs and datasets, each with its DOI and how to cite it.
