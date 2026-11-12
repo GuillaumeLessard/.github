@@ -1,0 +1,46 @@
+name: Reproduction report
+description: You reran a benchmark, a proof or a dataset check. Tell us whether it matched.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Reports that confirm a result are as useful as reports that do not. Thank you for checking.
+  - type: input
+    id: target
+    attributes:
+      label: What you reproduced
+      description: The record, file or result, with its DOI or path.
+      placeholder: "doi.org/10.5281/zenodo.23956279, the Coq build"
+    validations:
+      required: true
+  - type: dropdown
+    id: outcome
+    attributes:
+      label: Outcome
+      options:
+        - Matched the published result
+        - Did not match
+        - Could not run it
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps and commands
+      description: Everything you ran, in order.
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Operating system, tool versions (Python, Rust, Coq, Lean and so on) and hardware.
+    validations:
+      required: true
+  - type: textarea
+    id: output
+    attributes:
+      label: Output and hashes
+      description: What you got, and the SHA-256 hashes of the input files if you have them.
+      render: text
