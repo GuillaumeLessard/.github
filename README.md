@@ -7,7 +7,7 @@ This repository holds the files GitHub uses across the [QECTOR organization](htt
 - [`SUPPORT.md`](SUPPORT.md): where to ask questions and report problems
 - [`CONTRIBUTING.md`](CONTRIBUTING.md): what contributions help, and the licence terms that apply to them
 - [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md): the Contributor Covenant 2.1
-- [`ISSUE_TEMPLATE/`](ISSUE_TEMPLATE): bug report and reproduction report forms
+- [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE): bug report and reproduction report forms, used by every repository without its own
 - [`PULL_REQUEST_TEMPLATE.md`](PULL_REQUEST_TEMPLATE.md): the checklist shown when opening a pull request
 
 Website: [qector.store](https://qector.store) · Research Archive: [zenodo.org/communities/id01t](https://zenodo.org/communities/id01t)
